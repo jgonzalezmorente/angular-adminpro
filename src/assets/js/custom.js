@@ -6,7 +6,7 @@ File: js
 */
 
 const customInitFunctions = () => {
-    console.log('customInitFunctions');
+    // console.log('customInitFunctions');
     $(function() {
         "use strict";
         $(function() {
